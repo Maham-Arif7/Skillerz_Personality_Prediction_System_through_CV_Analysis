@@ -1,0 +1,30 @@
+Maham Arif
+maham.arif@email.com | +92 300 1234567
+
+SUMMARY
+Creative and detail-oriented Software Engineer with 3 years of experience designing and delivering
+innovative, user-focused products. Known for taking ownership of projects, meeting deadlines
+consistently, and mentoring junior team members.
+
+EXPERIENCE
+Software Engineer — TechNova Solutions (2023-Present)
+- Led a cross-functional team of 5 engineers to design and deliver a new analytics dashboard,
+  improving reporting efficiency by 40%.
+- Organized bi-weekly knowledge-sharing sessions and mentored two junior developers.
+- Presented product roadmaps to stakeholders and collaborated closely with the design team to
+  prototype innovative UI concepts.
+- Managed sprint planning and ensured all deadlines were met with meticulous attention to detail.
+
+Junior Developer — Creative Byte Labs (2021-2023)
+- Volunteered to lead the internal hackathon, motivating 20+ participants and organizing the event
+  from concept to execution.
+- Researched and experimented with new frameworks, bringing several original ideas into production.
+- Supported teammates with troubleshooting and remained calm and composed under tight deadlines,
+  consistently delivering reliable results even in a fast-paced environment.
+- Assisted community outreach programs, volunteering as a coding mentor for local students.
+
+SKILLS
+Python, JavaScript, React, SQL, Data Visualization, Agile Project Management, Public Speaking
+
+EDUCATION
+BS Computer Science — University of Engineering & Technology
